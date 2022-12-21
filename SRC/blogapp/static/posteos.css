@@ -8,22 +8,17 @@
 body{
     background-color: cornflowerblue;
 }
-article img{
-    max-width: 500%;
-}
 
-h1{
-    color: palegreen
+article img{
+    max-width: 30%;
 }
 
 article{
-    background-color: white;
+    background-color: palevioletred;
     border-radius: 10px;
     box-shadow: 2px 2px 2px black;
     display: inline-block;
     margin: 1rem;
-    padding: 1 rem;
+    padding: 1rem;
     width: 30%;
 }
-
-
